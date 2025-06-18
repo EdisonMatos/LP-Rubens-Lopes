@@ -138,7 +138,7 @@ const content = {
       heroImg: bgHeroImg, //fundo da Hero
       heroDefaultImage: heroDefaultImg, //imagem da heroDefault Mobile
       backgroundPerson: backgroundPersonMobile,
-      ctaButtonText: "A_DefinFaça valer minha jornadair",
+      ctaButtonText: "Faça valer minha jornada",
       obsHero: {
         icon: (
           <svg
