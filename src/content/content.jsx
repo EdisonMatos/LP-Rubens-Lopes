@@ -127,8 +127,8 @@ const content = {
       miniTag: "ESCRITÓRIO DE ADVOCACIA EM BELÉM - PA",
       title: (
         <h1 className="mb-[16px]">
-          Advocacia especializada em
-          <span className="text-primary"> direito marítimo</span>
+          Advocacia especializada em Direito Aquaviário (marítimo){" "}
+          {/* <span className="text-primary"> direito marítimo</span> */}
         </h1>
       ),
       subtitle:
@@ -138,7 +138,7 @@ const content = {
       heroImg: bgHeroImg, //fundo da Hero
       heroDefaultImage: heroDefaultImg, //imagem da heroDefault Mobile
       backgroundPerson: backgroundPersonMobile,
-      ctaButtonText: "A_DefinFaça valer minha jornadair",
+      ctaButtonText: "Faça valer minha jornada",
       obsHero: {
         icon: (
           <svg
@@ -561,7 +561,7 @@ const content = {
         question4: {
           question: "A atuação do escritório é apenas em Belém - PA?",
           answer:
-            "Apesar da sede ser em Belém - PA, atendemos trabalhadores e empresas de todo o setor aquaviário da Região Norte, inclusive de outros estados, com suporte jurídico remoto ou presencial conforme necessário.",
+            "Apesar da sede ser em Belém - PA, atendemos trabalhadores e empresas de todo o setor aquaviário da Região Norte, inclusive de outros Estados, com suporte jurídico remoto ou presencial conforme necessário.",
         },
       },
       paragraph: "Clique aqui caso tenha mais dúvidas",
