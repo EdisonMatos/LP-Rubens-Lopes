@@ -76,7 +76,7 @@ export const infos = {
     <div>
       <p>Endereço:</p>
       <p>Tv. Manoel Evaristo, </p>
-      <p>nº 321 - Umarizal Belém - PA,</p>
+      <p>nº 315 - Umarizal Belém - PA,</p>
       <p>CEP: 66050-290</p>
     </div>
   ),
