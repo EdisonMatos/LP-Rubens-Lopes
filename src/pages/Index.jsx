@@ -13,6 +13,8 @@ import FloatingWhatsappButton from "../components/interactives/FloatingWhatsappB
 import Maps from "../components/sections/Maps";
 import TeamCards from "../components/sections/TeamCards";
 import BlogPosts from "../components/sections/BlogPosts";
+import WhatsappForm from "../components/interactives/WhatsappForm";
+import FormAndLocation from "../components/sections/FormAndLocation";
 
 export default function Index() {
   // Altere esta constante para: 'default', 'light' ou 'dark'
@@ -49,6 +51,7 @@ export default function Index() {
       <Cta colorMode={colorMode} />
       <Steps colorMode={colorMode} />
       <Maps colorMode={colorMode} />
+      <FormAndLocation />
       <Faq colorMode={colorMode} />
       <FooterSocial
         colorMode={colorMode}

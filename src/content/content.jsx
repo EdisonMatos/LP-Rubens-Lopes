@@ -535,6 +535,12 @@ const content = {
       label: "Clique aqui para ver todas as matérias",
       blogLink: "https://blogtestepaper.wordpress.com/",
     },
+    contactForm: {
+      minitag: "OUVIDORIA",
+      title: "Sua opinião é essencial",
+      subtitle:
+        "Estamos sempre prontos para ouvir você. Envie sugestões, elogios, reclamações ou dúvidas — sua voz nos ajuda a melhorar.",
+    },
     faq: {
       miniTag: "TIRE SUAS DÚVIDAS",
       title: "Perguntas Frequentes",
